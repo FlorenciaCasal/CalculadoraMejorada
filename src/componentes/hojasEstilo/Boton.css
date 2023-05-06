@@ -1,0 +1,51 @@
+.botonContenedor {
+    height: 15vh;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    font-weight: 400;
+    font-size: 38px;
+    background-color: #404ad4;
+    color: white;
+    border: 0.005px solid #5889d4;
+    border-right: 0px solid white;
+    cursor: pointer;
+    user-select: none;
+}
+
+.botonContenedor:hover {
+    background-color: blue;
+}
+
+.operador {
+  background-color: #404ad4;
+  border: 0.005px solid #5889d4;
+    border-right: 0px solid white;
+  font-weight: 400;
+}
+
+.operador:hover {
+    background-color: cornflowerblue;
+
+}
+
+.botonIgual {
+    height: 15vh;
+    /* font-size: 1.6em; */
+    font-size: 38px;
+    display: flex;
+    flex: 2;
+    background-color: #32cacf;
+    justify-content: center;
+    align-items: center;
+    font-weight: 400;
+    color: white;
+    border: 0.005px solid #5889d4;
+    border-right: 0px solid white;
+    padding-left: 0.5px;
+    padding-right: 0.5px;
+    cursor: pointer;
+    user-select: none;
+     /*  border-radius: 25px; */
+}

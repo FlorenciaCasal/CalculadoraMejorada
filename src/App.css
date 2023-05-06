@@ -1,0 +1,32 @@
+.App {
+    height: 100vh;
+    background-color: #4166ce;
+    font-family: Lato, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.calculadoraContenedor {
+    width: 100vh;
+    height: 100vh;
+    /* background-color: black; */
+}
+
+.fila {
+    display: flex;
+    height: 15vh;
+    justify-content: center;
+    align-items: center;
+
+}
+
+@media screen and (min-width: 375px) {
+
+    .calculadoraContenedor {
+        width: 375px;
+        height: 667px;
+    }
+}

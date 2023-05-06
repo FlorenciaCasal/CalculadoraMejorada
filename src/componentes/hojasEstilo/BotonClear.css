@@ -1,0 +1,19 @@
+.botonClear {
+    height: 15vh;
+    font-size: 38px;
+    display: flex;
+    flex: 1;
+    background-color: #404ad4;
+    justify-content: center;
+    align-items: center;
+    font-weight: 400;
+    color: white;
+    border: 0.005px solid #5889d4;
+    border-right: 0px solid white;
+    cursor: pointer;
+    user-select: none;
+}
+
+.botonClear:hover {
+    background-color: rgb(25, 187, 187);
+}

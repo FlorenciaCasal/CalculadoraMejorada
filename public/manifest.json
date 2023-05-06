@@ -1,0 +1,15 @@
+{
+  "short_name": "React App",
+  "name": "Calculadora con React",
+  "icons": [
+    {
+      "src": "calculadora.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
