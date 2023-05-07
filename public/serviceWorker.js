@@ -2,7 +2,7 @@ const staticCalculadora = "calculadoraReact"
 const assets = [
   "/",
   "/index.html",
-  "/calculadora.png",
+  "/logoCalculadora2.png",
   "/src/componentes/hojasEstilo/Boton.css",
   "/src/componentes/hojasEstilo/BotonClear.css",
   "/src/componentes/hojasEstilo/Pantalla.css",
